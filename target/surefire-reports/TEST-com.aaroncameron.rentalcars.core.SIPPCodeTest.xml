@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="9" failures="0" name="com.aaroncameron.rentalcars.core.SIPPCodeTest" time="0" errors="0" skipped="0">
+<testsuite tests="9" failures="0" name="com.aaroncameron.rentalcars.core.SIPPCodeTest" time="0.001" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib"/>
@@ -69,7 +69,7 @@
   <testcase classname="com.aaroncameron.rentalcars.core.SIPPCodeTest" name="testGetCarType" time="0"/>
   <testcase classname="com.aaroncameron.rentalcars.core.SIPPCodeTest" name="testGetAirCon" time="0"/>
   <testcase classname="com.aaroncameron.rentalcars.core.SIPPCodeTest" name="testGetTransmission" time="0"/>
-  <testcase classname="com.aaroncameron.rentalcars.core.SIPPCodeTest" name="testCreateSIPPCodeWithInvalidCodeOne" time="0"/>
+  <testcase classname="com.aaroncameron.rentalcars.core.SIPPCodeTest" name="testCreateSIPPCodeWithInvalidCodeOne" time="0.001"/>
   <testcase classname="com.aaroncameron.rentalcars.core.SIPPCodeTest" name="testCreateSIPPCodeWithInvalidCodeTwo" time="0"/>
   <testcase classname="com.aaroncameron.rentalcars.core.SIPPCodeTest" name="testGetSippCodeArrayLength" time="0"/>
 </testsuite>

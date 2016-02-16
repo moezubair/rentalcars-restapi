@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="12" failures="0" name="com.aaroncameron.rentalcars.resource.ResourceTest" time="4.068" errors="0" skipped="0">
+<testsuite tests="12" failures="0" name="com.aaroncameron.rentalcars.resource.ResourceTest" time="4.003" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib"/>
@@ -63,16 +63,16 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="com.aaroncameron.rentalcars.resource.ResourceTest" name="testListAllVehiclePriceAsString" time="1.407"/>
-  <testcase classname="com.aaroncameron.rentalcars.resource.ResourceTest" name="testHighRatingPerCarTypeResourceGetHttpResponseWithOKCode" time="0.44"/>
-  <testcase classname="com.aaroncameron.rentalcars.resource.ResourceTest" name="testSpecificationResourceGetHttpResponseWithOKCode" time="0.261"/>
-  <testcase classname="com.aaroncameron.rentalcars.resource.ResourceTest" name="testListAllSumOfScoresAsString" time="0.254"/>
-  <testcase classname="com.aaroncameron.rentalcars.resource.ResourceTest" name="testPriceResourceGetHttpResponseWithOKCode" time="0.276"/>
-  <testcase classname="com.aaroncameron.rentalcars.resource.ResourceTest" name="testlistAllRatedSupplierAsString" time="0.225"/>
-  <testcase classname="com.aaroncameron.rentalcars.resource.ResourceTest" name="testPriceResourceGetHttpResponseWithNotOKCode" time="0.218"/>
-  <testcase classname="com.aaroncameron.rentalcars.resource.ResourceTest" name="testSpecificationResourceGetHttpResponseWithNotOKCode" time="0.158"/>
-  <testcase classname="com.aaroncameron.rentalcars.resource.ResourceTest" name="testSumOfScoresResourceGetHttpResponseWithOKCode" time="0.238"/>
-  <testcase classname="com.aaroncameron.rentalcars.resource.ResourceTest" name="testListAllCarSpecificationAsString" time="0.215"/>
-  <testcase classname="com.aaroncameron.rentalcars.resource.ResourceTest" name="testSumOfScoresResourceGetHttpResponseWithNotOKCode" time="0.111"/>
-  <testcase classname="com.aaroncameron.rentalcars.resource.ResourceTest" name="testHighRatingPerCarTypeResourceGetHttpResponseWithNotOKCode" time="0.265"/>
+  <testcase classname="com.aaroncameron.rentalcars.resource.ResourceTest" name="testListAllVehiclePriceAsString" time="1.41"/>
+  <testcase classname="com.aaroncameron.rentalcars.resource.ResourceTest" name="testHighRatingPerCarTypeResourceGetHttpResponseWithOKCode" time="0.443"/>
+  <testcase classname="com.aaroncameron.rentalcars.resource.ResourceTest" name="testSpecificationResourceGetHttpResponseWithOKCode" time="0.263"/>
+  <testcase classname="com.aaroncameron.rentalcars.resource.ResourceTest" name="testListAllSumOfScoresAsString" time="0.163"/>
+  <testcase classname="com.aaroncameron.rentalcars.resource.ResourceTest" name="testPriceResourceGetHttpResponseWithOKCode" time="0.194"/>
+  <testcase classname="com.aaroncameron.rentalcars.resource.ResourceTest" name="testlistAllRatedSupplierAsString" time="0.243"/>
+  <testcase classname="com.aaroncameron.rentalcars.resource.ResourceTest" name="testPriceResourceGetHttpResponseWithNotOKCode" time="0.23"/>
+  <testcase classname="com.aaroncameron.rentalcars.resource.ResourceTest" name="testSpecificationResourceGetHttpResponseWithNotOKCode" time="0.129"/>
+  <testcase classname="com.aaroncameron.rentalcars.resource.ResourceTest" name="testSumOfScoresResourceGetHttpResponseWithOKCode" time="0.186"/>
+  <testcase classname="com.aaroncameron.rentalcars.resource.ResourceTest" name="testListAllCarSpecificationAsString" time="0.245"/>
+  <testcase classname="com.aaroncameron.rentalcars.resource.ResourceTest" name="testSumOfScoresResourceGetHttpResponseWithNotOKCode" time="0.238"/>
+  <testcase classname="com.aaroncameron.rentalcars.resource.ResourceTest" name="testHighRatingPerCarTypeResourceGetHttpResponseWithNotOKCode" time="0.259"/>
 </testsuite>

@@ -71,14 +71,14 @@
   <testcase classname="com.aaroncameron.rentalcars.core.CarTest" name="testGetRatedSupplierString" time="0"/>
   <testcase classname="com.aaroncameron.rentalcars.core.CarTest" name="testGetFuel" time="0"/>
   <testcase classname="com.aaroncameron.rentalcars.core.CarTest" name="testGetSIPPCodeArray" time="0"/>
-  <testcase classname="com.aaroncameron.rentalcars.core.CarTest" name="testGetSumOfScores" time="0"/>
+  <testcase classname="com.aaroncameron.rentalcars.core.CarTest" name="testGetSumOfScores" time="0.001"/>
   <testcase classname="com.aaroncameron.rentalcars.core.CarTest" name="testGetDoorsGetCarType" time="0"/>
   <testcase classname="com.aaroncameron.rentalcars.core.CarTest" name="testCreateCarWithInvalidSIPPCodeLengthOne" time="0"/>
   <testcase classname="com.aaroncameron.rentalcars.core.CarTest" name="testCreateCarWithInvalidSIPPCodeLengthTwo" time="0"/>
-  <testcase classname="com.aaroncameron.rentalcars.core.CarTest" name="testGetCarType" time="0.001"/>
+  <testcase classname="com.aaroncameron.rentalcars.core.CarTest" name="testGetCarType" time="0"/>
   <testcase classname="com.aaroncameron.rentalcars.core.CarTest" name="testGetVehicleScoreFromMapWithBadString" time="0"/>
   <testcase classname="com.aaroncameron.rentalcars.core.CarTest" name="testGetAirCon" time="0"/>
-  <testcase classname="com.aaroncameron.rentalcars.core.CarTest" name="testGetTransmission" time="0.001"/>
-  <testcase classname="com.aaroncameron.rentalcars.core.CarTest" name="testGetRating" time="0"/>
+  <testcase classname="com.aaroncameron.rentalcars.core.CarTest" name="testGetTransmission" time="0"/>
+  <testcase classname="com.aaroncameron.rentalcars.core.CarTest" name="testGetRating" time="0.001"/>
   <testcase classname="com.aaroncameron.rentalcars.core.CarTest" name="testGetVehicleScoreFromMap" time="0"/>
 </testsuite>
