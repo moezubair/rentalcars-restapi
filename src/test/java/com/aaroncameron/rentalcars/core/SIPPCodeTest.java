@@ -47,7 +47,6 @@ public class SIPPCodeTest {
         char[] sippArrayFromGetter = sippCode.getSippCodeArray();
 
         assertTrue(sippArrayFromGetter.length == 4);
-
     }
 
     @Test

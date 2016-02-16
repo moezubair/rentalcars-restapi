@@ -8,8 +8,8 @@ import static org.junit.Assert.assertEquals;
 
 public class AirConTest {
 
-    AirCon airCon;
-    char aC = 'R';
+    private AirCon airCon;
+    private char aC = 'R';
 
     @Before
     public void setUp() throws KeyNotInMapException {

@@ -8,8 +8,8 @@ import static org.junit.Assert.assertEquals;
 
 public class CarTypeTest {
 
-    CarType carType;
-    char mini = 'M';
+    private CarType carType;
+    private char mini = 'M';
 
     @Before
     public void setUp() throws KeyNotInMapException {

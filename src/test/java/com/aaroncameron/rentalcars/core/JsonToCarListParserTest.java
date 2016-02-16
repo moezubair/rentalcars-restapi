@@ -138,5 +138,4 @@ public class JsonToCarListParserTest {
 
         assertTrue(allCars.size() == 0);
     }
-
 }

@@ -30,8 +30,6 @@ public class ComparatorTest {
     @Before
     public void setUp() {
 
-
-
         objectMapper = new ObjectMapper();
         JsonNode jsonNodeArray = null;
 
@@ -45,7 +43,6 @@ public class ComparatorTest {
 
         JsonToCarListParser jsonToCarListParser = new JsonToCarListParser(jsonNodeArray);
         allCars = jsonToCarListParser.getAllCars();
-
     }
 
     @Test
